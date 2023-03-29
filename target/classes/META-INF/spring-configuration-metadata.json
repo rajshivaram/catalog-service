@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "ocean",
+      "type": "com.oceanofbooks.catalogservice.config.OceanProperties",
+      "sourceType": "com.oceanofbooks.catalogservice.config.OceanProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ocean.greeting",
+      "type": "java.lang.String",
+      "description": "A message to welcome users.",
+      "sourceType": "com.oceanofbooks.catalogservice.config.OceanProperties"
+    }
+  ],
+  "hints": []
+}
