@@ -1,11 +1,12 @@
+D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\demo\BookDataLoader.java
 D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\web\BookControllerAdvice.java
 D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\domain\BookRepository.java
 D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\domain\BookNotFoundException.java
-D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\persistence\InMemoryBookRepository.java
 D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\domain\BookService.java
 D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\CatalogServiceApplication.java
 D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\HomeController.java
 D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\web\BookController.java
 D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\config\OceanProperties.java
+D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\config\DataConfig.java
 D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\domain\BookAlreadyExistsException.java
 D:\Coding_Workspace\SpringBoot\catalog-service\src\main\java\com\oceanofbooks\catalogservice\domain\Book.java

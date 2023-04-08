@@ -12,7 +12,6 @@ import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Positive;
 
-//The domain model is implemented as a record, an immutable object
 public record Book(
 
         @Id Long id,
