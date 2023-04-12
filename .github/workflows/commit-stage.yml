@@ -23,7 +23,7 @@ jobs:
           restore-keys: ${{ runner.os }}-m2
 
       - name: Build and test project with Maven
-        run: mvn -B package --file pom.xml
+        run: mvn install --file pom.xml
 
       - name: Code vulnerability scanning
         uses: anchore/scan-action@v3

@@ -1,0 +1,4 @@
+com\oceanofbooks\catalogservice\domain\BookValidationTests.class
+com\oceanofbooks\catalogservice\web\BookJsonTests.class
+com\oceanofbooks\catalogservice\web\BookControllerMvcTests.class
+com\oceanofbooks\catalogservice\CatalogServiceApplicationTests.class

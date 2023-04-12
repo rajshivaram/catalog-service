@@ -1,0 +1,13 @@
+com\oceanofbooks\catalogservice\web\BookController.class
+com\oceanofbooks\catalogservice\domain\Book.class
+com\oceanofbooks\catalogservice\config\DataConfig.class
+com\oceanofbooks\catalogservice\domain\BookRepository.class
+META-INF\spring-configuration-metadata.json
+com\oceanofbooks\catalogservice\domain\BookAlreadyExistsException.class
+com\oceanofbooks\catalogservice\web\BookControllerAdvice.class
+com\oceanofbooks\catalogservice\domain\BookService.class
+com\oceanofbooks\catalogservice\HomeController.class
+com\oceanofbooks\catalogservice\CatalogServiceApplication.class
+com\oceanofbooks\catalogservice\config\OceanProperties.class
+com\oceanofbooks\catalogservice\domain\BookNotFoundException.class
+com\oceanofbooks\catalogservice\demo\BookDataLoader.class
