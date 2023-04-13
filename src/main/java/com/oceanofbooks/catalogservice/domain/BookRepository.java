@@ -16,7 +16,7 @@ public interface BookRepository extends CrudRepository<Book, Long> {
     boolean existsByIsbn(String isbn);
 
     @Modifying
-    @Transactional
+    @Transactional  
     @Query("delete from Book where isbn = :isbn")
 
     void deleteByIsbn(String isbn);
