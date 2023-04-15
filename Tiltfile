@@ -3,7 +3,7 @@ custom_build(
     # Name of the container image
     ref = 'rajshivaram7/catalog-service',
     # Command to build the container image
-    command = 'mvn package jib:dockerBuild -Pjib -Djib.to.image=$EXPECTED_REF',
+    command = 'mvnw spring-boot:build-image -Dspring-boot.build-image.imageName=catalog-service=$EXPECTED_REF',
     # Files to watch that trigger a new build
     deps = ['src']
 )
